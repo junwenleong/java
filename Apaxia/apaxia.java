@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Apaxia {
+public class apaxia {
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 		StringBuilder inpt = new StringBuilder(sc.nextLine());
