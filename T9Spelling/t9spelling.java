@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class T9spelling {
+public class t9spelling {
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 		int nocases = sc.nextInt();
